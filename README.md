@@ -15,7 +15,7 @@ The User friendly date maker project represents between passed date and current 
     Do not need to import datetime, timedelta.
     if you already have a date object of created datetime. it's for testing purpose
 
-    # 1. If your message sent recently. ###
+    ##### 1. If your message sent recently. ###
         
         
         #!python
@@ -32,7 +32,7 @@ The User friendly date maker project represents between passed date and current 
         Just Now.
         
 
-    # 2. if your message sent 2 days ago. ###
+    ##### 2. if your message sent 2 days ago. ###
         
 
         
