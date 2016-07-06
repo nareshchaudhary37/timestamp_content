@@ -2,6 +2,13 @@
 
 The User friendly date maker project represents between passed date and current date time distance with appropricate message.
 
+* How to install
+
+    ```
+        git clone https://github.com/nareshchaudhary37/user-friendly-date-maker
+        cd user-friendly-date-maker
+        python setup.py
+    ```
 
 * How to use?
 
