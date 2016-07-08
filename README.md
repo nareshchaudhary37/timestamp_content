@@ -6,7 +6,7 @@ The User friendly date maker project represents between passed date and current 
 
     ```
         git clone https://github.com/nareshchaudhary37/user-friendly-date-maker
-        cd user-friendly-date-maker
+        cd timestamp-content
         python setup.py
     ```
 
@@ -21,7 +21,7 @@ The User friendly date maker project represents between passed date and current 
         #!python
 
         from datetime import datetime
-        from date_maker import date_maker
+        from timestamp_content import date_maker
         
         created_at = datetime.now() # your message date here
         res = date_maker(created_at)
@@ -39,7 +39,7 @@ The User friendly date maker project represents between passed date and current 
         #!python
 
 
-        from date_maker import date_maker
+        from timestamp_content import date_maker
         from datetime import datetime, timedelta
         
         created_at = datetime.now() + timedelta(days=2) # your message date here
