@@ -5,7 +5,7 @@ The User friendly date maker project represents between passed date and current 
 * How to install
 
     ```
-        git clone https://github.com/nareshchaudhary37/user-friendly-date-maker
+        git clone https://github.com/nareshchaudhary37/timestamp_content
         cd timestamp-content
         python setup.py
     ```
